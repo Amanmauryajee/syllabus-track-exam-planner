@@ -1,0 +1,6 @@
+{
+  "name": "Syllabus Track & Exam Prep Advisor",
+  "description": "An offline-first, data-driven student preparation planner. Tracks study hours, chapters, mock scores, accuracy, and uses physical pace analytics to predict exam readiness and syllabus completion targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
