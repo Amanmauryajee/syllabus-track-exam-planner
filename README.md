@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Syllabus Track Exam Planner
 
-# Run and deploy your AI Studio app
+A smart exam preparation planner that helps students:
 
-This contains everything you need to run your app locally.
+Track syllabus completion
+Manage daily study schedules
+Monitor study progress
+Recover backlogs efficiently
+Stay focused on exam goals
+Features
+Syllabus Progress Tracking
+Daily Study Planner
+Performance Monitoring
+Backlog Recovery Console
+Exam Countdown
+Readiness Analysis Dashboard
+Tech Stack
+React
+TypeScript
+Vite
+Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/c3a457eb-7792-49e4-972a-f145a4e1e9b7
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://syllabus-track-exam-planner.vercel.app/
